@@ -28,7 +28,6 @@
     $ pip3 install -r requirements.txt
    ```
 
-• Set environment variables for the Azure OpenAI API or modify your own OpenAI config in `./src/llm.py`:
 • 为Azure OpenAI API设置环境变量或在`./src/llm.py`中修改您自己的OpenAI配置
    ```bash
    export OPENAI_API_BASE="YOUR_OPENAI_API_BASE"
